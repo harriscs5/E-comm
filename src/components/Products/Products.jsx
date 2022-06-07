@@ -4,9 +4,9 @@ import { Grid } from "@material-ui/core";
 import Product from "./Product/Product";
 
 const products = [
-    {id: 1, name: 'Boondocks Tee', image:'', description: 'Graphic T-shirt',price: 40, rating: 4.5, numReviews:8},
-    {id: 1, name: 'Boondocks Tee', description: 'Graphic T-shirt',price: 40, rating: 4.5, numReviews:8},
-    {id: 1, name: 'Boondocks Tee', description: 'Graphic T-shirt',price: 40, rating: 4.5, numReviews:8},
+    {id: 1, name: 'Boondocks Tee', image:'https://i.postimg.cc/7LJ9LCbQ/mockup-of-a-big-bearded-man-wearing-a-bella-canvas-t-shirt-m13931.png', description: 'Graphic T-shirt',price: 40, rating: 4.5, numReviews:8},
+    {id: 1, name: 'Boondocks Tee', image:'https://i.postimg.cc/7LJ9LCbQ/mockup-of-a-big-bearded-man-wearing-a-bella-canvas-t-shirt-m13931.png', description: 'Graphic T-shirt',price: 40, rating: 4.5, numReviews:8},
+    {id: 1, name: 'Boondocks Tee', image:'https://i.postimg.cc/7LJ9LCbQ/mockup-of-a-big-bearded-man-wearing-a-bella-canvas-t-shirt-m13931.png', description: 'Graphic T-shirt',price: 40, rating: 4.5, numReviews:8},
 
 ];
 
